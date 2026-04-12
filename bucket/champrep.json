@@ -1,12 +1,12 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://cli.champrep.com/download/v0.1.7/champrep_0.1.7_windows_amd64.zip",
+            "url": "https://cli.champrep.com/download/v0.1.8/champrep_0.1.8_windows_amd64.zip",
             "bin": [
                 "champrep.exe"
             ],
-            "hash": "de5d21f038cbbfa15f309ed96896488d6b5bc4ea7428a32f79390fd86654ef7c"
+            "hash": "e4d375532848abd1079cf3583e24a7433f95bf5947572b325b4a9ef0338fdbc6"
         }
     },
     "homepage": "https://cli.champrep.com",
