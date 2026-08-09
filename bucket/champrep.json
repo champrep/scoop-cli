@@ -1,15 +1,15 @@
 {
-    "version": "0.1.8",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://cli.champrep.com/download/v0.1.8/champrep_0.1.8_windows_amd64.zip",
+            "url": "https://cli.champrep.com/download/v0.2.0/champrep_0.2.0_windows_amd64.zip",
             "bin": [
                 "champrep.exe"
             ],
-            "hash": "e4d375532848abd1079cf3583e24a7433f95bf5947572b325b4a9ef0338fdbc6"
+            "hash": "eadbd312966000cd94f266b9f8ee1c50fe06e5a0ffc7766a71e8ad271861b2f1"
         }
     },
     "homepage": "https://cli.champrep.com",
     "license": "Apache-2.0",
-    "description": "The official ChamPrep command-line tool."
+    "description": "The official CHAMPREP command-line tool."
 }
