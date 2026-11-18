@@ -1,13 +1,13 @@
 {
-    "version": "0.4.20",
+    "version": "0.4.22",
     "architecture": {
         "64bit": {
-            "url": "https://cli.champrep.com/download/v0.4.20/champrep_0.4.20_windows_amd64.zip",
+            "url": "https://cli.champrep.com/download/v0.4.22/champrep_0.4.22_windows_amd64.zip",
             "bin": [
                 "eve.exe",
                 "champrep.exe"
             ],
-            "hash": "1ed739505e3b07eadfd0e33611ae447e10c3c5ae26b496512eb6ed511b7c08e0"
+            "hash": "6070a2b7bf468b315c31997a077ae72f41bf50b48cb0e726f896a63bded00d25"
         }
     },
     "homepage": "https://cli.champrep.com",
